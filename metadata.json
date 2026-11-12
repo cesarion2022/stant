@@ -1,0 +1,6 @@
+{
+  "name": "ExpoStands - Vitrina Comercial de Stands Personalizables",
+  "description": "Plataforma de stands comerciales interactivos para restaurantes, bares, salones de belleza, spas, veterinarias, consultorios médicos, ropa y calzado con carrito, reservas, publicidad multimedia, pasarelas de pago y panel protegido por PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
